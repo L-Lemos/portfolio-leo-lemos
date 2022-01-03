@@ -15,5 +15,6 @@ Background in: MATLAB, Python, TRNSYS, thermal systems simulation, mathematical 
 Links:
 
 **[Medium](https://medium.com/@leonardo.f.l.lemos)**
+
 **[Linkedin](https://www.linkedin.com/in/leonardo-lacerda-lemos/)**
 
