@@ -4,7 +4,9 @@
 
 *From research scientist to data scientist*
 
-Having worked in several research projects, in partnership with Brazilian as well as international research institutions, I have become used to handling large sets of weather data, dealing with complex energy system simulations which required attention to details, as well as working with fellow researchers from diverse cultural backgrounds.
+Having worked in several Brazilian and international research projects, I have developed analytic skills and attention to details, having handled large sets of weather and energy production data, as well as implementing complex energy system simulations for industrial applications and utility-scale energy production. 
+
+Furthermore, I had the opportunity to work with fellow researchers from diverse cultural backgrounds.
 
 Currently a PhD Candidate at the Federal University of Santa Catarina, I have authored or co-authored three scientific papers in the *Renewable Energy* journal, and also presented several works at international solar energy conferences.
 
