@@ -12,7 +12,7 @@ Currently a PhD Candidate at the Federal University of Santa Catarina, I have au
 
 This porfolio is a record of my current studies in ***data science***, including projects related to my doctoral research as well as novel projects from a data scientist's learning path.
 
-Background in: MATLAB, Python, TRNSYS, thermal systems simulation, mathematical modelling
+Background in: Python, MATLAB, TRNSYS, thermal systems simulation, mathematical modelling
 
 Links:
 
