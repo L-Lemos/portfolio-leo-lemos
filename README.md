@@ -10,7 +10,7 @@ Furthermore, I had the opportunity to work with fellow researchers from diverse 
 
 Currently a PhD Candidate at the Federal University of Santa Catarina, I have authored or co-authored three scientific papers in the *Renewable Energy* journal, and also presented several works at international solar energy conferences.
 
-This porfolio is a record of my current studies in ***data science***, including projects related to my doctoral research as well as novel projects from a data scientist's learning path.
+This porfolio is a record of my current studies in **Python** and ***data science***, including projects related to my doctoral research as well as novel projects from a data scientist's learning path.
 
 Background in: Python, MATLAB, TRNSYS, thermal systems simulation, mathematical modelling
 
