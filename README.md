@@ -1,6 +1,6 @@
 # Leonardo Lemos
 
-*PhD Candidate and Scientific Researcher at the Solar Energy Laboratory in the Federal University of Santa Catarina, Brazil*
+*PhD Candidate and Scientific Researcher at the Solar Energy Laboratory from the Federal University of Santa Catarina, Brazil*
 
 *From research scientist to data scientist*
 
@@ -8,9 +8,9 @@ Having worked in several Brazilian and international research projects, I have d
 
 Currently a PhD Candidate at the Federal University of Santa Catarina, I have authored or co-authored three scientific papers in the *Renewable Energy* journal, and also presented several works at international solar energy conferences.
 
-This porfolio is a record of my current studies in ***Python*** and ***Data Science***, including projects related to my doctoral research as well as novel projects from a data scientist's learning path.
+This porfolio is a record of my current studies in ***Python*** and ***Data Science***, including projects related to my doctoral research, personal projects, as well as practice projects from a data scientist's learning path.
 
-Background in: Python, MATLAB, TRNSYS, thermal systems simulation, mathematical modelling
+Background in: Python, MATLAB, TRNSYS, EES, thermal systems simulation, mathematical modelling
 
 Links:
 
@@ -18,3 +18,6 @@ Links:
 
 **[Linkedin](https://www.linkedin.com/in/leonardo-lacerda-lemos/)**
 
+Repositories available:
+
+**[Manim Animations](https://github.com/L-Lemos/manim-animations)** - Explanatory animations of thermodynamic concepts, made with the manim library for Python.
