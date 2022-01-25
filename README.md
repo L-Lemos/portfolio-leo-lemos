@@ -21,3 +21,7 @@ Links:
 Repositories available:
 
 **[Manim Animations](https://github.com/L-Lemos/manim-animations)** - Explanatory animations of thermodynamic concepts, made with the manim library for Python.
+
+**[PhD Thesis Codes](https://github.com/L-Lemos/phd_thesis)** - Codes related to my doctoral thesis, involving machine learning for simulation of solar thermal systems for industrial applications, as well as processing of georreferenced data to analyse the profitability of solar energy and biomass for industrial heat generation in Brazil.
+
+**[Other Data Science Projects](https://github.com/L-Lemos/data_science_projects)** - Miscellaneous data science works, created for coding practice or for personal use.
