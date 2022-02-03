@@ -1,4 +1,4 @@
-<img alt="Colaboratory logo" width="15%" src="Banner.png">
+<img alt="Colaboratory logo" width="100%" src="Banner.png">
 
 # Leonardo Lemos
 
