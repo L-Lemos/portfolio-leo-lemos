@@ -20,6 +20,6 @@ Background in: Python, MATLAB, TRNSYS, EES, thermal systems simulation, mathemat
 
 ### Links:
 
-**[Medium](https://medium.com/@leonardo.f.l.lemos)**
-
 **[Linkedin](https://www.linkedin.com/in/leonardo-lacerda-lemos/)**
+
+**[Medium](https://medium.com/@leonardo.f.l.lemos)**
