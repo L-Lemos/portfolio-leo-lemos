@@ -1,3 +1,5 @@
+<img alt="Colaboratory logo" width="15%" src="Banner.png">
+
 # Leonardo Lemos
 
 *PhD Candidate and Scientific Researcher at the Solar Energy Laboratory from the Federal University of Santa Catarina, Brazil*
