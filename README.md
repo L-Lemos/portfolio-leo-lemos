@@ -1,7 +1,5 @@
 <img alt="Banner" width="100%" src="Banner.png">
 
-*PhD Candidate and Scientific Researcher at the Solar Energy Laboratory from the Federal University of Santa Catarina, Brazil*
-
 Having worked in several Brazilian and international research projects, I have developed analytic skills and attention to details, handling large sets of weather and energy production data, as well as implementing complex energy systems simulations for industrial applications and utility-scale energy production. 
 
 Currently a PhD Candidate at the Federal University of Santa Catarina, I have authored or co-authored three scientific papers in the *Renewable Energy* journal, and also presented several works at international solar energy conferences.
