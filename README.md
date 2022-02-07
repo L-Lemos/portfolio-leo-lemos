@@ -12,7 +12,11 @@ Background in: Python, MATLAB, TRNSYS, EES, thermal systems simulation, mathemat
 
 ### Repositories available:
 
-**[Data Science Projects](https://github.com/L-Lemos/data_science_projects)** - Data science works based on real-world problems.
+Data science projects based on real-world problems and data.
+
+**[Airbnb prices in Rome](https://github.com/L-Lemos/rome_airbnb_dsnp)** - An overview of Airbnb accommodation prices, for basic data processing and visualization.
+
+### Other repositories
 
 **[PhD Thesis Codes](https://github.com/L-Lemos/phd_thesis)** - Codes related to my doctoral thesis, which will involve machine learning for simulation of solar thermal systems for industrial applications, as well as processing of georreferenced data to analyze the profitability of solar energy and biomass for industrial heat generation in Brazil.
 
