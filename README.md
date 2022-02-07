@@ -14,7 +14,7 @@ Background in: Python, MATLAB, TRNSYS, EES, thermal systems simulation, mathemat
 
 Data science projects based on real-world problems and data.
 
-**[Airbnb prices in Rome](https://github.com/L-Lemos/rome_airbnb_dsnp)** - An overview of Airbnb accommodation prices, for basic data processing and visualization.
+**[Airbnb prices in Rome](https://github.com/L-Lemos/rome_airbnb_prices)** - An overview of Airbnb accommodation prices, for basic data processing and visualization.
 
 ### Other repositories
 
