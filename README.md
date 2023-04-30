@@ -26,4 +26,4 @@ Data science projects based on real-world problems and data.
 
 **[Linkedin](https://www.linkedin.com/in/leonardo-lacerda-lemos/)**
 
-**[Medium](https://medium.com/@leonardo.f.l.lemos)**
+**[Medium](https://medium.com/@leo.lemos)**
