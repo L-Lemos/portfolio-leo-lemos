@@ -20,6 +20,8 @@ Data science projects based on real-world problems and data.
 
 **[PhD Thesis Codes](https://github.com/L-Lemos/phd_thesis)** - Codes related to my doctoral thesis, which will involve machine learning for simulation of solar thermal systems for industrial applications, as well as processing of georreferenced data to analyze the profitability of solar energy and biomass for industrial heat generation in Brazil.
 
+**[Constrained Gaussian Processes Library](https://github.com/L-Lemos/gp_constr_modified)** - An adaptation of the original [gp_constr](https://github.com/cagrell/gp_constr) library for constrained gaussian processes, adding new, second-derivative constraints. Developed as part of a research paper.
+
 **[Manim Animations](https://github.com/L-Lemos/manim-animations)** - Explanatory animations of thermodynamic and mathematical concepts, made with the manim library for Python.
 
 ### Links:
